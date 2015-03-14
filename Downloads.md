@@ -1,0 +1,1 @@
+See http://sfepy.org/doc-devel/downloads.html.
